@@ -1,0 +1,48 @@
+.center-img {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+img {
+  border-radius: 20px;
+}
+.centrado {
+  color: white;
+  position: absolute;
+  top: 80%;
+  left: 45%;
+}
+
+body {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.button {
+  button {
+    display: block;
+    padding: 0.5rem 1rem;
+    width: 200px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 20px;
+    color: orange;
+    border-color: orange;
+  }
+}
+
+* {
+  font-family: 'Nunito';
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
